@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Nefly</string>
+
+    <!-- Components -->
+    <string name="search_bar_label">Buscar una pelicula...</string>
+    <string name="movie_poster_content_description">Movie poster</string>
+    <string name="back_button_content_description">Go back</string>
+    <string name="user_score_user_text">User</string>
+    <string name="user_score_score_text">Score</string>
+
+    <!-- Navigation -->
+    <string name="nav_title_movies">Peliculas</string>
+    <string name="nav_title_favorites">Favoritos</string>
+    <string name="nav_title_profile">Usuario</string>
+    <string name="nav_title_details">Details</string>
+
+    <!-- MoviesScreen -->
+    <string name="ms_trending_title">Tendencia</string>
+    <string name="ms_popular_title">Películas Populares</string>
+    <string name="ms_upcoming_title">Próximamente</string>
+
+    <!-- FavoriteMoviesScreen -->
+    <string name="fms_empty_favorite_list_text">No hay peliculas favoritas para mostrar</string>
+
+    <!-- UserProfileScreen -->
+    <string name="ups_default_profile_picture">Default profile picture</string>
+    <string name="ups_profile_picture">Profile picture</string>
+    <string name="ups_change_profile_background">Change profile background</string>
+    <string name="ups_change_profile_picture">Change profile picture</string>
+    <string name="ups_edit_username">Edit username</string>
+    <string name="ups_enter_your_username">Ingrese su nombre</string>
+    <string name="ups_confirm_dialog">OK</string>
+    <string name="ups_cancel_dialog">Cancel</string>
+    <string name="ups_favorite_movies">Películas Favoritas</string>
+    <string name="ups_background_picture">Background picture</string>
+    <string name="ups_default_username">Nombre de usuario</string>
+
+    <!-- Errors -->
+    <string name="loading_error_text">Something went wrong!</string>
+    <string name="loading_error_content_description">Loading error</string>
+
+</resources>
