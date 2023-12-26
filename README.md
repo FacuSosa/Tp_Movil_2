@@ -15,7 +15,6 @@ Proyecto creado en la materia móvil 2 usando las mejores prácticas de desarrol
 - Coroutines Flow
 - ViewBinding
 - Jetpack Compose
-- Dagger Hilt
 
 # Screenshot
 <img src="https://github.com/FacuSosa/Tp_Movil_2/assets/88222890/3b8b2787-f9b0-48bf-8adf-d4be6abbe52c" width="250" /> 
